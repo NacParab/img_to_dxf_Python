@@ -2,7 +2,7 @@
 This Repository contains a Python3 code for converting vector images to dxf (AutoCAD supported) drawings developed by Nachiket Parab. 
 
 Special thanks to Manfred Motizi, the creator of [ezdxf](https://github.com/mozman/ezdxf) , and Olli-Pekks Heinisuo , the creator of [opencv-python](https://github.com/skvark/opencv-python).
-Thanks to the creators of the creators of [argparse](https://github.com/python/cpython/blob/master/Lib/argparse.py) and [numpy](https://github.com/numpy/numpy) as well.
+Thanks to the creators of [argparse](https://github.com/python/cpython/blob/master/Lib/argparse.py) and [numpy](https://github.com/numpy/numpy) as well.
 
 ## How to use img_to_dxf_Python
 
